@@ -1,0 +1,11 @@
+{
+  "author" : "{\"id\":1,\"name\":\"Nick\"}",
+  "project" : "{\"id\":1,\"projectName\":\"Project X\"}",
+  "driverClass" : "com.mysql.cj.jdbc.Driver",
+  "user" : "root",
+  "password" : "password",
+  "protocol" : "jdbc:mysql",
+  "host" : "localhost",
+  "port" : "3306",
+  "rout" : "mydatabase"
+}
